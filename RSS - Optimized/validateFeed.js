@@ -1,0 +1,1 @@
+function validateFeedInsert(){if(""==document.forms.newfeed.sName.value)return alert("Please enter a name for the new feed"),!1;if(""==document.forms.newfeed.sUrl.value)return alert("Please enter a valid feed URL"),!1}function validateFeedDelete(){if(""==document.forms.delfeed.sName.value)return alert("Please enter a feed name to delete"),!1};

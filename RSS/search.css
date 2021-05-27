@@ -1,0 +1,16 @@
+body {
+    background-image: url('searchbackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #333333
+}
+
+.set{
+    padding: 20px;
+}
+
+.news {
+    padding-left: 20px; 
+    padding-right: 20px;
+}
